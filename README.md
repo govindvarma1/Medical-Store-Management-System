@@ -1,7 +1,7 @@
 
 # Medical Store Management System
 This Management System is a console application completely using Python
-# Features
+ # Features
 1.Displays the available stock in the inventor     
 2.Manages inventory(Insertion,deletion & etc.)  
 3.Creates a sales report  
